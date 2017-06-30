@@ -1,0 +1,14 @@
+{
+    "name": "jatin/timezones",
+    "description": "Demo-package to show time",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jatin Raikwar",
+            "email": "jatinraikwar2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
